@@ -1,0 +1,10 @@
+C:\Users\Vladislav\Documents\GitHub\CourseProjectOOP\CourseProjectOOP\CourseProjectOOP\bin\Debug\CourseProjectOOP.exe.config
+C:\Users\Vladislav\Documents\GitHub\CourseProjectOOP\CourseProjectOOP\CourseProjectOOP\bin\Debug\CourseProjectOOP.exe
+C:\Users\Vladislav\Documents\GitHub\CourseProjectOOP\CourseProjectOOP\CourseProjectOOP\bin\Debug\CourseProjectOOP.pdb
+C:\Users\Vladislav\Documents\GitHub\CourseProjectOOP\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.csprojAssemblyReference.cache
+C:\Users\Vladislav\Documents\GitHub\CourseProjectOOP\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.Properties.Resources.resources
+C:\Users\Vladislav\Documents\GitHub\CourseProjectOOP\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.csproj.GenerateResource.cache
+C:\Users\Vladislav\Documents\GitHub\CourseProjectOOP\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Documents\GitHub\CourseProjectOOP\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.exe
+C:\Users\Vladislav\Documents\GitHub\CourseProjectOOP\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.pdb
+C:\Users\Vladislav\Documents\GitHub\CourseProjectOOP\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.StartForm.resources

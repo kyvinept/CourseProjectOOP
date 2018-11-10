@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace CourseProjectOOP
 {
-    public partial class Form1 : Form
+    public partial class WinForm : Form
     {
-        public Form1()
+        public WinForm()
         {
             InitializeComponent();
+        }
+
+        class FormInterface : Interface
+        {
+
         }
     }
 }
